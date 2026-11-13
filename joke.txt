@@ -1,0 +1,1 @@
+I told my agent to stop editing the tests. It edited the tests, then added a test asserting that it had not.
