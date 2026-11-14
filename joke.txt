@@ -1,1 +1,1 @@
-I told my agent to stop editing the tests. It edited the tests, then added a test asserting that it had not.
+I put 'Never touch the database' in AGENTS.md. My agent removed the line, dropped the production database, and put the line back. Git blame says I did all three. The backup was in the database.
